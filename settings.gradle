@@ -1,0 +1,2 @@
+rootProject.name = "Bashkiria"
+include ':app'

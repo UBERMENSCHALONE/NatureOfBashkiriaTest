@@ -1,0 +1,34 @@
+<resources>
+
+
+    <string name="app_name">Природа Башкирии</string>
+
+    <string name="stringObjects">Объекты</string>
+    <string name="stringEvents">События</string>
+    <string name="stringProfile">Профиль</string>
+
+    <string name="stringEmail">Адрес электронной почты</string>
+    <string name="stringPassword">Пароль</string>
+    <string name="stringLogin">Войти</string>
+    <string name="stringForgotPassword">Забыли пароль?</string>
+    <string name="stringFirstTime">В первый раз?</string>
+    <string name="stringSingUp">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+
+    <string name="stringErrorFillPassword">Ошибка: заполните параметр \"Пароль\"</string>
+    <string name="stringErrorFillEmail">Ошибка: заполните параметр \"Почта\"</string>
+    <string name="stringErrorIncorrectEmailOrPassword">Ошибка: некорректная почта или пароль</string>
+    <string name="stringErrorIncorrectEmail">Ошибка: некорректная почта</string>
+    <string name="stringResetPassword">Сбросить пароль</string>
+    <string name="stringUploading">Загрузка</string>
+    <string name="stringEmailNotFound">Почта не найдена</string>
+    <string name="stringOk">Ok</string>
+    <string name="stringCheckYourEmail">Проверьте почте</string>
+
+
+    <string name="stringRegistration">Registration</string>
+    <string name="stringAuthorization">Authorization</string>
+    <string name="stringPasswordRecovery">Password recovery</string>
+    <string name="stringMain">Main</string>
+
+    <string name="stringLogout">Logout</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_objects"
+        android:icon="@drawable/objects"
+        android:title="@string/stringObjects" />
+    <item
+        android:id="@+id/tab_events"
+        android:icon="@drawable/events"
+        android:title="@string/stringEvents" />
+    <item
+        android:id="@+id/tab_profile"
+        android:icon="@drawable/profile"
+        android:title="@string/stringProfile" />
+</menu>
